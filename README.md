@@ -12,5 +12,4 @@ Examples of narcissistic numbers include:
 
 9474 (9^4 + 4^4 + 7^4 + 4^4) = 9474)
 
-
 Note: 36 is NOT a narcissistic number because 3^2 + 6^2 does not equal 36.
